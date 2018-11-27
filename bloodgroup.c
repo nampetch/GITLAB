@@ -2,10 +2,14 @@
 #include <string.h>
 void main()
 <<<<<<< HEAD
+<<<<<<< HEAD
 { char Name[50], G[5], answer[70]; #Add2
 =======
 { char Name[50], G[50], answer[10];
 >>>>>>> 065bab87dfa66341280854e3e3f28d5af1df8b96
+=======
+{ char Name[50], G[50], answer[10]; #ADD
+>>>>>>> 4790df7a49a2efd10fafc3a389793f2d8f80f926
   int i;
   do
   {
