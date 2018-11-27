@@ -3,6 +3,7 @@
 void main()
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 { char Name[50], G[5], answer[70]; #Add2
 =======
 { char Name[50], G[50], answer[10];
@@ -10,6 +11,9 @@ void main()
 =======
 { char Name[50], G[50], answer[10]; #ADD
 >>>>>>> 4790df7a49a2efd10fafc3a389793f2d8f80f926
+=======
+{ char Name[50], G[50], answer[10]; #ADD1
+>>>>>>> 6bf963b0af04a2ae502fe5c53af4cb8753a009de
   int i;
   do
   {
